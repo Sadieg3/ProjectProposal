@@ -9,7 +9,7 @@ Description of the project...
 
 ## Class Diagram #1
 
-# Project Proposal 2: Name?
+# Project Proposal 2: Battle Ship
 Description of the project...
 
 ## GUI Mockup #1
