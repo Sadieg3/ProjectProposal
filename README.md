@@ -1,4 +1,4 @@
-# Project Proposal 1:Name?
+# Project Proposal 1:Connect Four
 Description of the project...
 
 ## GUI Mockup #1
@@ -9,7 +9,7 @@ Description of the project...
 
 ## Class Diagram #1
 
-# Project Proposal 1:Name?
+# Project Proposal 2: Name?
 Description of the project...
 
 ## GUI Mockup #1
