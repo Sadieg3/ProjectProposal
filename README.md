@@ -12,7 +12,7 @@ Group Members: Sophie Kolb, John Billick, and Max Schroeder
 ![End of game Screen] {}
 
 ## Class Diagram #1
-![Class Diagram] {}
+![Class Diagram] ()
 
 # Project Proposal 2: Battle Ship
 Description of the project...
