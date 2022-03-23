@@ -1,6 +1,6 @@
 # Project Proposal 1:Connect Four
 Description of the project...
-Group Members: Sophie Kolb, John Billick, and Max Schroeder
+Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
 
 ## GUI Mockup #1 (Start Screen)
 ![Start Screen] {}
