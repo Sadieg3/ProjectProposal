@@ -3,7 +3,8 @@ User will have their own chips. The objective is that they want to connect four 
 Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
 
 ## GUI Mockup #1 (Start Screen)
-![Start Screen] {http://start%20screen.png}
+![Start Screen] {<img width="119" alt="Screen Shot 2022-03-28 at 11 26 01 AM" src="https://user-images.githubusercontent.com/89169471/160453678-73728b2b-5939-4735-bf76-ab2ec24f0fe1.png">
+}
 
 ## GUI Mockup #2 (Gameplay)
 ![Gameplay Screen] {<img width="196" alt="Screen Shot 2022-03-27 at 5 29 07 PM" src="https://user-images.githubusercontent.com/89169471/160305836-02bb6176-ad70-402f-9726-839c1a8e6774.png">}
