@@ -32,5 +32,5 @@ User will try to destroy their opponent's battle ship by choosing places on the 
 ![End of game screen] {![IMG_3863](https://user-images.githubusercontent.com/89169471/160306346-d5a8c73b-0f94-47ec-a0a7-2c0355b1758b.jpeg)
 }
 
-## Class Diagram #1
+## Class Diagram #2
 ![Class Diagram] {https://app.diagrams.net/#G16YTDw4sbskOuVPshpkpYL_lFca9zH4Lg}
