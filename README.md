@@ -33,4 +33,5 @@ BattleShip is a popular board game where two players are given ships of varying 
 }
 
 ## Class Diagram #2
-![Class Diagram] {https://app.diagrams.net/#G16YTDw4sbskOuVPshpkpYL_lFca9zH4Lg}
+![Class Diagram] {<img width="813" alt="Screen Shot 2022-03-28 at 11 35 14 AM" src="https://user-images.githubusercontent.com/89169471/160455078-6c84b01b-ffbf-43c8-a3c3-49e41ccac400.png">
+}
