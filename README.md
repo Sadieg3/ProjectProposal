@@ -17,7 +17,7 @@ Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
 ![Class Diagram] {}
 
 # Project Proposal 2: Battle Ship
-User will try to destroy their opponent's battle ship by choosing places on the ship to shoot at without being able to see it before the opponent destroys the user's ship. 
+BattleShip is a popular board game where two players are given ships of varying sizes to place on a grid and take turns trying to shoot the opponets ships. First you place the ships on the board. Next the players take turns selecting an opponents grid square to shoot and are told if they hit. missed, or destroyed a ship. A ship is destroyed when all the squares it is on have been destroied. When all of the opponets ships have sunk you win.
 
 ## GUI Mockup #1 (Start Screen)
 ![Start Screen] {<img width="660" alt="Screen Shot 2022-03-27 at 5 42 11 PM" src="https://user-images.githubusercontent.com/89169471/160306368-6f035bba-3967-4bab-999f-fd2b6321aca6.png">
