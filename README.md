@@ -14,7 +14,8 @@ Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
 }
 
 ## Class Diagram #1
-![Class Diagram] {}
+![Class Diagram] {<img width="1114" alt="Screen Shot 2022-03-28 at 11 55 39 AM" src="https://user-images.githubusercontent.com/89169471/160458154-2f1a192e-6188-4fd4-ad89-0adf972706e3.png">
+}
 
 # Project Proposal 2: Battle Ship
 BattleShip is a popular board game where two players are given ships of varying sizes to place on a grid and take turns trying to shoot the opponets ships. First you place the ships on the board. Next the players take turns selecting an opponents grid square to shoot and are told if they hit. missed, or destroyed a ship. A ship is destroyed when all the squares it is on have been destroied. When all of the opponets ships have sunk you win.
