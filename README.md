@@ -1,5 +1,5 @@
 # Project Proposal 1:Connect Four
-User will have their own chips that they want to connect four of them in the connect four slots quicker than the person they are playing.
+User will have their own chips. The objective is that they want to connect four of them in the connect four slots quicker than the person they are playing.
 Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
 
 ## GUI Mockup #1 (Start Screen)
