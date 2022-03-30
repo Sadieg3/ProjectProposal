@@ -1,5 +1,5 @@
 # Project Proposal 1:Connect Four
-A two player game where each player will first choose the color token they want to begin the game. The user will play against an AI. The user will choose what color token they want then the user and AI will take turns dropping their tokens into a grid, each player only gets one turn each time. The first player to get four of their tokens either horizontally, vertically, or diagonally together wins.
+A game where the user plays against an AI. The user will choose what color token they want then the user and AI will take turns dropping their tokens into a grid, each player only gets one turn each time. The first player to get four of their tokens either horizontally, vertically, or diagonally together wins.
 Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
 
 ## GUI Mockup #1 (Start Screen)
